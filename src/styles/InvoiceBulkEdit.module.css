@@ -1,0 +1,10 @@
+.thdata {
+  vertical-align: middle;
+}
+.thdata,
+.tdata {
+  text-align: center;
+  border: 1px solid #dee2e6;
+  font-size: 14px;
+  padding: 3px 6px !important;
+}
